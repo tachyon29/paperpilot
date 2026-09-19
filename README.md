@@ -1,5 +1,15 @@
 # PaperPilot
 
+## Demo
+
+### Document Upload
+
+![PaperPilot Upload](screenshots/demo-upload.png)
+
+### Question Answering
+
+![PaperPilot Answer](screenshots/demo-answer.png)
+
 A document question-answering application built using Retrieval-Augmented Generation (RAG).
 
 PaperPilot allows users to upload PDF documents and ask questions about their contents. The system retrieves the most relevant sections of the document and provides them as context to a Gemini language model to generate an answer with page-level sources.
